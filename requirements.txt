@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 matplotlib
 numpy
+=======
+matplotlib
+numpy
+>>>>>>> fd6ef480fc7bab3a7e79e8e93865805e2ad4c842
 tensorflow
