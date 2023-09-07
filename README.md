@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Banner1](https://th.bing.com/th/id/OIG.nhYVa4CcVfCcqLGlwq3t?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
 ![Banner2](https://th.bing.com/th/id/OIG.Djl5y6Hmr2O.1qZIAAOv?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
 ![Banner2](https://th.bing.com/th/id/OIG.61Z2hperouW5cvLa0_Dy?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
